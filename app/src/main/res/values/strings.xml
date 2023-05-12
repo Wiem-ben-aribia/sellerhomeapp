@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">examproject</string>
+    <string name="we_re_here_for_every_homeownership_n_move_you_face">We\'re here for every homeownership \n move you face</string>
+    <string name="let_s_start">Let\'s start</string>
+    <string name="find_your_dream_house_nat_the_best_price">Find Your dream House\nAt the best price</string>
+    <string name="todo">TODO</string>
+    <string name="let_s_Start">let\'s start</string>
+    <string name="see_all">See all</string>
+    <string name="See_all">See all</string>
+    <string name="popular">Popular</string>
+    <string name="villa">Villa</string>
+    <string name="appartement">Appartement</string>
+    <string name="office">Office</string>
+    <string name="home">Home</string>
+    <string name="searching_for">searching for ...</string>
+    <string name="Todo">TODO</string>
+    <string name="ben_aribia_wiem">Ben Aribia Wiem</string>
+    <string name="welcom_back">Welcom back</string>
+    <string name="todoo">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="bed">Bed</string>
+    <string name="wifi" />
+    <string name="bath" />
+    <string name="bathh">bath</string>
+    <string name="wifii">wifi</string>
+    <string name="description">Description</string>
+</resources>
